@@ -8,7 +8,8 @@ Download the repository and while inside the repository, run the command pip3 in
 # Testing the code
 The corpus folder consists of text documents on various topics.
 
-To check the functionality of the code, run the command python3 questions.py corpus 
+To check the functionality of the code, run the command python3 questions.py corpus
+
 Test with the following questions:
 
 1. What are the types of supervised learning?
